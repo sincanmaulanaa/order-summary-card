@@ -82,6 +82,7 @@ table {
 body {
 	background-color: hsl(225, 100%, 94%);
 	background-image: url(../img/pattern-background-desktop.svg);
+	background-size: 100%;
 	background-repeat: no-repeat;
 	font-family: 'Red Hat Display', sans-serif;
 }
